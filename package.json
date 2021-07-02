@@ -1,0 +1,12 @@
+{
+  "name": "card_validator",
+  "version": "1.0.0",
+  "description": "a vanilla nodejs api for validating a credit card",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Holajuwon",
+  "license": "ISC"
+}
